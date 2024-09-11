@@ -4,7 +4,7 @@ public class Variables
     {
         string r = "r";
         int i = 8;
-        double n = 3.3;
+        double n = 3.4;
         i = i + 1;
         boolean d = false;
         system.out.println(r+i+n+d);
