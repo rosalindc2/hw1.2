@@ -7,7 +7,9 @@ public class Variables
         double n = 3.4;
         i = i + 1;
         boolean d = false;
-        system.out.println(r+i+n+d);
+        system.out.println(r);
+        system.out.print(i+n);
+        system.out.print(d);
     }
 }
     
